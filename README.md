@@ -1,5 +1,5 @@
 # move-it-v1
-A simple pomodoro web-app for protecting React with TS.
+A simple pomodoro web-app for study with React + TS.
 
 ## Study content:
 - SSR with Next.js;
